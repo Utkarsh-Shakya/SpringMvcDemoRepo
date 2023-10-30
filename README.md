@@ -7,9 +7,6 @@ Welcome to the demo of the "Spring Pet Clinic" project! This README will guide y
 1. [Project Overview](#project-overview)
 2. [Prerequisites](#prerequisites)
 3. [Getting Started](#getting-started)
-4. [Demo Instructions](#demo-instructions)
-5. [Contributing](#contributing)
-6. [License](#license)
 
 ## 1. Project Overview
 
