@@ -16,7 +16,7 @@ public class UserDao {
     // Read a user by ID
     public User getUserById(int userId) {
         for (User user : users) {
-            if (user.getId() == userId) {
+            if (user.getId() == userID) {
                 return user;
             }
         }
@@ -35,7 +35,7 @@ public class UserDao {
     }
 
     // Delete a user
-    public void deleteUser(int userId) {
+    public void deleteUser(int userID) {
         users.removeIf(user -> user.getId() == userId);
     }
 
